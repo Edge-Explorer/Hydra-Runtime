@@ -1,0 +1,1 @@
+# Base Plugin interface
